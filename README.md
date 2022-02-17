@@ -6,8 +6,8 @@ To run this project, follow these steps.
 
 1. Clone the project locally, 
 2. https://github.com/johnchristotle/blockchain-development-1/
-3. 4. change into the directory, 
+3. change into the directory, 
 
-2. Open New Terminal at VSCode or any Text editor
+4. Open New Terminal at VSCode or any Text editor
 
-3. Start the app by typing (node app.js) press enter
+5. Start the app by typing (node app.js) press enter
